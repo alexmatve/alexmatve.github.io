@@ -298,8 +298,6 @@
 
 .footer {
   min-height: 350px;
-  /* padding-top: 60px; */
-  /* padding-bottom: 40px; */
   background-color: #1f1f1f;
   display: flex;
   justify-content: center;
@@ -364,7 +362,7 @@
   /* border: 3px solid #2fedcd; */
 }
 
-.footer__list-elem {
+.footer__column-link {
   color: white;
   line-height: 30px;
   font-size: 18px;
@@ -380,7 +378,7 @@
   /* border: 3px solid #2f80ed; */
 }
 
-.footer__list-elem-logo {
+.footer__social-icon {
   width: 16px;
   height: 16px;
   padding-right: 10px;
